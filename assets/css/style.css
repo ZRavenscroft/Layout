@@ -1,0 +1,140 @@
+.background{
+    height: 100vh;
+    background-image: linear-gradient(to bottom, black 0%, transparent 100%), url(https://startbootstrap.github.io/startbootstrap-grayscale/assets/img/bg-masthead.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#navigation{
+    background-color: #d3d3d3;
+}
+nav img{
+    margin-left: 40px;
+    width: 70px;
+}
+.container{
+    width: 100%;
+    height: 70px;
+}
+.border{
+    box-shadow: 0px 2px 12px black inset;
+}
+.d-flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.menu li{
+    display: inline-block;
+    width: 100px;
+    color: #292929; 
+    font-size: 17px;
+}
+.logo{
+    font-size: 35px;
+    width: 65%;
+    height: 40px;
+}
+.text-uppercase{
+    text-transform: uppercase;
+    font-size: 6.5rem;
+    letter-spacing: 0.8rem;
+    background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0));
+    padding-top: 120px;
+}
+.title{
+    text-align: center;
+    color: #bdbebd;
+}
+.p-size{
+    font-size: 20px;
+}
+.button-1{
+    color: white;
+    border: 1px;
+    border-radius: 5px;
+    width: 180px;
+    height: 60px;
+    background-color: #64a19d;
+    margin-top: 40px;
+}
+.margin-top{
+    margin-top: 20px;
+}
+#about{
+    background: linear-gradient(180deg, rgb(0, 0, 0), rgb(16, 53, 54));
+    width: 100%;
+    height: 100vh;
+}
+.about-image{
+    padding-top: 105px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.about-title-text{
+    font-size: 2rem;
+    padding-top: 100px;
+    color: white
+}
+.about-subtitle-text{
+    font-size: 1rem;
+    margin-top: 30px;
+}
+.container-true{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#project{
+    width: 100%;
+    height: 100vh;
+}
+#projects{
+    display: block;
+}
+.project-img-1{
+    margin-left: 150px;
+    margin-top: 150px;
+    width: 700px;
+    height: 400px;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-grayscale/assets/img/bg-masthead.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.center{
+    align-items: center;
+}
+.paddint-text{
+    margin-left: 100px;
+    width: 100%;
+}
+#contact{
+    height: 80vh;
+    background-image: linear-gradient(to bottom, black 0%, transparent 100%), url(https://startbootstrap.github.io/startbootstrap-grayscale/assets/img/bg-signup.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.icon{
+    color: white;
+    font-size: 50px;
+    align-items: center;
+    padding-left: 840px;
+    padding-top: 220px;
+}
+.pad{
+    font-size: 2rem;
+    padding-left: 630px;
+    margin-top: 20px;
+    color: white;
+}
+.icon-2{
+    color: white;
+    font-size: 3rem;
+}
+.twitter{
+    padding-left: 790px;
+    margin-top: 180px;
+}
